@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "https://raw.githubusercontent.com/gameindie87/Inushasa/main/1.csv",
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/1.csv",
       "itemName": "server_1"
     },
     {
-      "https://raw.githubusercontent.com/gameindie87/Inushasa/main/2.csv",
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/1a.csv",
       "itemName": "server_2"
     },
     {
-      "https://raw.githubusercontent.com/gameindie87/Inushasa/main/pic3.csv",
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/2.csv",
       "itemName": "server_3"
     },
     {
-      "https://raw.githubusercontent.com/gameindie87/Inushasa/main/pic4.csv",
+      "rawImageUrl": "https://raw.githubusercontent.com/oragaptech/pixelArt/master/7a.csv",
       "itemName": "server_4"
     }
   ]
